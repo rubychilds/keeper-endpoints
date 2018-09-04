@@ -1,0 +1,7 @@
+flask-jsonpify
+flask-sqlalchemy
+flask-restful
+Werkzeug>=0.7
+itsdangerous>=0.2
+click>=2.0
+SQLAlchemy>=0.8.0
